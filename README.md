@@ -22,15 +22,15 @@ Assignment (Pandas with Youtube stat data): [![Open In Colab](https://github.com
 
 ### Week02: Data Preparation
 
-1. EDA: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2025s1/blob/main/code/Week02_DataPrep/Lab1_LoansDataSet.ipynb)
+1. Impute Missing Value: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2025s1/blob/main/code/Week02_DataPrep/Lab2_ImputeMissingValue.ipynb)
 
-2. Impute Missing Value: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2025s1/blob/main/code/Week02_DataPrep/Lab2_ImputeMissingValue.ipynb)
+2. Outliers - Take Log: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2025s1/blob/main/code/Week02_DataPrep/Lab4_Outliers_Titanic.ipynb)
 
-3. Split Train/Test: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2025s1/blob/main/code/Week02_DataPrep/Lab3_SplitTrainTest.ipynb)
+3. Outliers - Remove them with Z-Score: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2025s1/blob/main/code/Week02_DataPrep/Lab5_Outliers_Boston_%28optional%29.ipynb)
 
-4. Outliers with Log: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2025s1/blob/main/code/Week02_DataPrep/Lab4_Outliers_Titanic.ipynb)
+4. Split Train/Test: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2025s1/blob/main/code/Week02_DataPrep/Lab3_SplitTrainTest.ipynb)
 
-5. Outliers with Z-Score (Boston DataSet): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2025s1/blob/main/code/Week02_DataPrep/Lab5_Outliers_Boston_%28optional%29.ipynb)
+
 
 ### Week03-04: Traditional ML
 #### Week03: Tree-based model, regression
