@@ -30,7 +30,7 @@ Assignment (Pandas with Youtube stat data): [![Open In Colab](https://github.com
 
 4. Outliers with Log: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2025s1/blob/main/code/Week02_DataPrep/Lab4_Outliers_Titanic.ipynb)
 
-5. Outliers with Log (Titanic DataSet): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2025s1/blob/main/code/Week02_DataPrep/Lab5_Outliers_Boston_%28optional%29.ipynb)
+5. Outliers with Z-Score (Boston DataSet): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2025s1/blob/main/code/Week02_DataPrep/Lab5_Outliers_Boston_%28optional%29.ipynb)
 
 ### Week03-04: Traditional ML
 #### Week03: Tree-based model, regression
