@@ -20,7 +20,6 @@
 
 1. Impute Missing Value: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2025s1/blob/main/code/Week02_DataPrep/Lab2_ImputeMissingValue_Pipeline.ipynb)
 
-
 2. OneHotEncoder: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2025s1/blob/main/code/Week02_DataPrep/Lab1_LoansDataSet.ipynb)
 
 3. Outliers - Take Log: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2025s1/blob/main/code/Week02_DataPrep/Lab4_Outliers_Titanic_Pipeline.ipynb)
