@@ -70,8 +70,8 @@
 
 ### Week05: Advanced ML (Transformer, Model Monitoring, Text Classification, GenerativeAI)
 
-4-1. Text Classification (TF-IDF): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2025s1/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2024s1/blob/main/code/Week05_AdvancedML/4_1_tfidf_for_Sentiment_Analysis.ipynb)
+4-1. Text Classification (TF-IDF): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2024s1/blob/main/code/Week05_AdvancedML/4_1_tfidf_for_Sentiment_Analysis.ipynb)
 
-4-2. Text Classification (BERT): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2025s1/main/img/colab-badge.svg)](https://colab.research.google.com/drive/1Md5Tnes-nD-LEt0e9Hj9kF9cjvTAj9Br?usp=sharing)
+4-2. Text Classification (BERT): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/drive/1Md5Tnes-nD-LEt0e9Hj9kF9cjvTAj9Br?usp=sharing)
 
-4-3. Text Classification (Phayathaibert): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2025s1/main/img/colab-badge.svg)](https://colab.research.google.com/drive/1-5nTIXHSiOEr4OnIEHq7KQFuzsfakOgn?usp=sharing)
+4-3. Text Classification (Phayathaibert): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/drive/1-5nTIXHSiOEr4OnIEHq7KQFuzsfakOgn?usp=sharing)
