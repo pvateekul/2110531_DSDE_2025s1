@@ -75,3 +75,5 @@
 4-2. Text Classification (BERT): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/drive/1Md5Tnes-nD-LEt0e9Hj9kF9cjvTAj9Br?usp=sharing)
 
 4-3. Text Classification (Phayathaibert): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/drive/1-5nTIXHSiOEr4OnIEHq7KQFuzsfakOgn?usp=sharing)
+
+4-4. Multi-label Text Classification (microsoft/deberta-v3-small): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/drive/1MoT-9ZMtIEvNm-IN_hC8ElW1VKwD1xC6?usp=sharing)
