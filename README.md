@@ -70,9 +70,9 @@
 
 ### Week05: Advanced ML (Transformer, Model Monitoring, Text Classification, GenerativeAI)
 
-1. Image classification with Hugging Face: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2025s1/blob/main/code/Week05_AdvancedML/5_1_Huggingface_image_classification_2025.ipynb)
+1. Image classification with Hugging Face: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2025s1/blob/main/code/Week05_AdvancedML/5_1_Huggingface_image_classification_2025s1.ipynb)
 
-2. Text Classification (TF-IDF): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2024s1/blob/main/code/Week05_AdvancedML/4_1_tfidf_for_Sentiment_Analysis.ipynb)
+2. Text Classification (TF-IDF): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2025s1/blob/main/code/Week05_AdvancedML/5_2_tfidf_for_Sentiment_Analysis.ipynb)
 
 3. Text Classification (BERT): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/drive/1Md5Tnes-nD-LEt0e9Hj9kF9cjvTAj9Br?usp=sharing)
 
