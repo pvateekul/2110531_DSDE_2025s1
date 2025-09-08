@@ -72,7 +72,7 @@
 
 5. Time series Forecasting: Stock Price: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2025s1/blob/main/code/Week04_DL/5_Time_series_forecasting_DataInGD_update.ipynb)
 
-### Week06: Advanced ML (Transformer, Model Monitoring, Text Classification, GenerativeAI)
+### Week06: Advanced ML (Transformer, Model Monitoring, Text Classification)
 
 1. Image classification with Hugging Face & TensorBoard: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2025s1/blob/main/code/Week05_AdvancedML/5_1_Huggingface_image_classification_2025s1.ipynb)
 
