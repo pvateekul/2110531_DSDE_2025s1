@@ -64,6 +64,8 @@
 
 2-3. Image classification with EfficientNetV2s (PyTorch Lightning) with Weights & Biases: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2025s1/blob/main/code/Week04_DL/2_3_Image_classification_Animal_EfficientNetV2(lightning)_wandb.ipynb)
 
+2-4. Image classification with EfficientNetV2s[HuggingFace] (PyTorch Lightning) with Weights & Biases: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2025s1/blob/main/code/Week04_DL/2_4_Image_classification_Animal_EfficientNetV2(lightning)_wandb_HuggingFace)
+
 3-1. Object detection with YOLOv8 (basic script): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2025s1/blob/main/code/Week04_DL/3_2_Object_detection_VOCDetection_yolov8_basic.ipynb)
 
 3-2. Object detection with YOLOv8 (custom dataset): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2025s1/blob/main/code/Week04_DL/3_3_Object_detection_VOCDetection_yolov8_advanced.ipynb)
