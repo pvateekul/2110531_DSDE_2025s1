@@ -78,13 +78,13 @@
 
 1. Image classification with Hugging Face & TensorBoard: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2025s1/blob/main/code/Week05_AdvancedML/5_1_Huggingface_image_classification_2025s1.ipynb)
 
-2. Text Classification (TF-IDF): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2025s1/blob/main/code/Week05_AdvancedML/5_2_tfidf_for_Sentiment_Analysis.ipynb)
+2. Text Classification (TF-IDF) [`PyTorch`]: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2025s1/blob/main/code/Week05_AdvancedML/5_2_tfidf_for_Sentiment_Analysis.ipynb)
 
-3. Text Classification (BERT): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2025s1/blob/main/code/Week05_AdvancedML/5_3_NLP_Transfer_Learning_for_Text_Classification_Using_Hugging_Face_Transformers_Trainer.ipynb#scrollTo=tQqHYsWVTV6D)
+3. Text Classification (BERT) [`PyTorch`]: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2025s1/blob/main/code/Week05_AdvancedML/5_3_NLP_Transfer_Learning_for_Text_Classification_Using_Hugging_Face_Transformers_Trainer.ipynb#scrollTo=tQqHYsWVTV6D)
 
-4. Text Classification (Phayathaibert): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2025s1/blob/main/code/Week05_AdvancedML/5_4_Wongnai_Review_Rating_Classifiacation_(Pytorch_lightning).ipynb)
+4. Text Classification (Phayathaibert) [`PyTorch Lightning`]: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2025s1/blob/main/code/Week05_AdvancedML/5_4_Wongnai_Review_Rating_Classifiacation_(Pytorch_lightning).ipynb)
 
-5. Multi-label Text Classification (microsoft/deberta-v3-small): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2025s1/blob/main/code/Week05_AdvancedML/5_5_Multi_label_Text_Classification.ipynb)
+5. Multi-label Text Classification (microsoft/deberta-v3-small) [`PyTorch`]: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2025s1/blob/main/code/Week05_AdvancedML/5_5_Multi_label_Text_Classification.ipynb)
 
 ### Week07: Generative AI (Prompt Engineering, Monitoring, Agentic Workflow, RAG, Fine-tuning)
 
