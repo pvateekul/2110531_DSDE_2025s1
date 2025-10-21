@@ -101,3 +101,9 @@
 6. RAG with LangChain and Agentic RAG with LangGraph [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2025s1/blob/main/code/Week07_GenerativeAI/7_6_LLM_RAG_LangChain_LangGraph.ipynb)
 
 7. Fine-tuning a Local LLM (Typhoon-7B) [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2025s1/blob/main/code/Week07_GenerativeAI/7_7_LLM_Typhoon7b_Finetuning.ipynb)
+
+### Week011: Intdocution to Data Engineering and Data Storages
+
+1. Simple Example [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2025s1/blob/main/code/Week11_Intro_to_Data_Eng_and_Data_Storage/Simple_Example.ipynb)
+
+2. Redis Assignment [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2025s1/blob/main/code/Week11_Intro_to_Data_Eng_and_Data_Storage/Redis_Assignment.ipynb)
