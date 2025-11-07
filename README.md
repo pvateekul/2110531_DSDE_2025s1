@@ -96,11 +96,13 @@
 
 4. LangChain Playground and Tracking with LangSmith [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2025s1/blob/main/code/Week07_GenerativeAI/7_4_LLM_LangChiain_Playground_Tracking_with_LangSmith.ipynb)
 
-5. Basic LangGraph & Creating a Simple ReAct Agent [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2025s1/blob/main/code/Week07_GenerativeAI/7_5_LLM_Basic_LangGraph_create_ReAct_style_agent.ipynb)
+5. Basic LangGraph [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2025s1/blob/main/code/Week07_GenerativeAI/7_5_LLM_Basic_LangGraph.ipynb)
 
 6. RAG with LangChain and Agentic RAG with LangGraph [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2025s1/blob/main/code/Week07_GenerativeAI/7_6_LLM_RAG_LangChain_LangGraph.ipynb)
 
-7. Fine-tuning a Local LLM (Typhoon-7B) [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2025s1/blob/main/code/Week07_GenerativeAI/7_7_LLM_Typhoon7b_Finetuning.ipynb)
+7. Creating a Simple ReAct Agent using LangGraph [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2025s1/blob/main/code/Week07_GenerativeAI/7_7_LLM_Create_a_ReAct_Agent.ipynb)
+
+8. Fine-tuning a Local LLM (Typhoon-7B) [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2025s1/blob/main/code/Week07_GenerativeAI/7_8_LLM_Typhoon7b_Finetuning.ipynb)
 
 ### Week011: Intdocution to Data Engineering and Data Storages
 
