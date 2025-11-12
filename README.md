@@ -104,7 +104,7 @@
 
 8. Fine-tuning a Local LLM (Typhoon-7B) [`Hugging Face`] [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2025s1/blob/main/code/Week07_GenerativeAI/7_8_LLM_Typhoon7b_Finetuning_Huggingface.ipynb)
 
-### Week011: Intdocution to Data Engineering and Data Storages
+### Week011: Introduction to Data Engineering and Data Storages
 
 1. Simple Example [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2025s1/blob/main/code/Week11_Intro_to_Data_Eng_and_Data_Storage/Simple_Example.ipynb)
 
