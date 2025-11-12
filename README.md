@@ -102,7 +102,7 @@
 
 7. Creating a Simple ReAct Agent using LangGraph [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2025s1/blob/main/code/Week07_GenerativeAI/7_7_LLM_Create_a_ReAct_Agent.ipynb)
 
-8. Fine-tuning a Local LLM (Typhoon-7B) [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2025s1/blob/main/code/Week07_GenerativeAI/7_8_LLM_Typhoon7b_Finetuning.ipynb)
+8. Fine-tuning a Local LLM (Typhoon-7B) [`Hugging Face`] [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110531_DSDE_2025s1/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110531_DSDE_2025s1/blob/main/code/Week07_GenerativeAI/7_8_LLM_Typhoon7b_Finetuning_Huggingface.ipynb)
 
 ### Week011: Intdocution to Data Engineering and Data Storages
 
